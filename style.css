@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+
+
+.show{
+    background-color: aqua;
+}
+.row{
+    margin-top:50px;
+    min-height:50px;
+    justify-content: space-between;
+}
